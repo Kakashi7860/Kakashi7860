@@ -3,8 +3,7 @@
 
 ---
 
-### 🚀 About Me
-- 💬 Ask me about **Full-Stack Java, Python, DSA, Data Science, Machine Learning, Power BI, Salesforce, Cyber Security & AZ-900 Cloud**
+
 - 📫 Reach me at **sohailshaikhexe@gmail.com**
 
 ---
