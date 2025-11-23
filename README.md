@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV2MXk1OGt1eGpod2dzbGtremFkdTg4Z2h6Y2R4d3oyeHcxdmZyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqjYpY6Kaieu1q3c4f/giphy.gif" width="200" alt="GIF"/>
+  <img src="https://media.giphy.com/media/pqjYpY6Kaieu1q3c4f/giphy.gif" width="200" alt="GIF" />
 </p>
 <h1 align="center">Hi 👋, I'm Sohail</h1>
 <h3 align="center">Founder of HellX | Developer,Mentor & Technical Trainer</h3>
