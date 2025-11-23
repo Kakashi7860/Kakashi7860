@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail</h1>
-<h3 align="center">Founder of HellX | Full-Stack & Cybersecurity Trainer</h3>
+<h3 align="center">Founder of HellX | Developer,Mentor & Technical Trainer</h3>
 
 ---
 
