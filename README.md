@@ -40,6 +40,3 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEzczB4NjY4MzJnMHQwbHQzZm5qMDhtZDB5b3J2M2puM2NzYmIxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YeKAMmdGI4dEUU8Wk/giphy.gif" alt="Cool GIF" />
-</p>
