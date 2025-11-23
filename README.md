@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif" width="120" style="border-radius: 50%;" alt="profile gif" />
-</p>
-<h1 align="center">Hi 👋, I'm Sohail</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif" width="60" style="border-radius: 50%;" alt="profile gif" />
+  Hi 👋, I'm Sohail
+</h1>
 <h3 align="center">Founder of HellX | Developer,Mentor & Technical Trainer</h3>
 
 ---
